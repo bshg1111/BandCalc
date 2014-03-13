@@ -90,8 +90,8 @@
 
         Otherwise, you can specify specific domains:
     -->
-	<gap:plugin name="org.apache.cordava.dialogs"/>
-	<gap:plugin name="org.apache.cordava.vibration"/>
+	<gap:plugin name="org.apache.cordova.dialogs"/>
+	<gap:plugin name="org.apache.cordova.vibration"/>
 	<access origin="*"/> <!-- allow local pages -->
     <!--
         <access origin="http://phonegap.com" />                    - allow any secure requests to http://phonegap.com/
